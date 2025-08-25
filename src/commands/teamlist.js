@@ -1,0 +1,1 @@
+//posts the list of teams in a channel
