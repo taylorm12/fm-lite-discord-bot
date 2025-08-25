@@ -1,0 +1,1 @@
+//deletes all created game channels
